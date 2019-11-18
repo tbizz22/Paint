@@ -41,7 +41,7 @@ background-color: #a5a290;
 }
 
 body {
-  margin: 40px;
+  margin: 10px;
 }
 
 .box {
@@ -56,8 +56,8 @@ body {
   width: 1000px;
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: repeat(6, 100px);
-  grid-template-rows: 100px 100px 100px;
+  grid-template-columns: repeat(3, 150px);
+  grid-template-rows: 150px 150px 150px;
   grid-auto-flow: row;
   margin: auto;
 }
